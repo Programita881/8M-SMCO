@@ -1,0 +1,54 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3e5f5;
+            text-align: justify;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #9c27b0;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        .message {
+            font-size: 20px;
+            color: #6a1b9a;
+            margin: 20px;
+            text-align: center;
+        }
+        .quote {
+            font-style: italic;
+            color: #4a148c;
+            font-size: 18px;
+            text-align: center;
+        }
+        footer {
+            background-color: #9c27b0;
+            color: white;
+            padding: 10px;
+            position: relative;
+            width: 100%;
+            bottom: 0;
+        }
+         .parrafo {
+            font-family: 'Times New Roman', Times, serif
+            ; text-align: justify;
+            font-size: 16px;
+        } 
+        .img001 {
+              height: 15cm;
+            width: 15cm;       
+        } 
+        .img002 {
+  
+padding: auto;            
+  height: 14cm;
+  width: 17cm;
+} 
